@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# Publieke domeinen van de gemeente Sittard-Geleen kunnen
+# met een redirect verwijzen naar het centrale bestand op
+# https://www.sittard-geleen.nl/.well-known/security.txt
+
+Contact: https://www.sittard-geleen.nl/disclosure
+Expires: 2024-07-31T22:00:00.000Z
+Encryption: https://www.sittard-geleen.nl/inwoners/contactinformatie/pgp-key.asc
+Preferred-Languages: NL, EN, DE
+Canonical: https://www.sittard-geleen.nl/.well-known/security.txt
+Policy: https://www.sittard-geleen.nl/disclosure
+Hiring: https://www.sittard-geleen.nl/Bestuur/Vacatures
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQT3sYqJYFDBvzsJh3g9s1ZUXmJCnwUCZK6GawAKCRA9s1ZUXmJC
+n8m2AP4gv+EXboiapBNKRR7Ubf1goiV4/0neSdVrHj3PJHfDRQEAyBi9qPRj8UJr
+YDJGSn5AzCC0LiTgdO1NbMTLMxqMrQk=
+=yr4X
+-----END PGP SIGNATURE-----
