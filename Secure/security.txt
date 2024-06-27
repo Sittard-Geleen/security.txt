@@ -1,0 +1,17 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: https://www.sittard-geleen.nl/disclosure
+Expires: 2026-06-27T10:00:00.000Z
+Encryption: https://secure.sittard-geleen.nl/pgp-key.asc
+Preferred-Languages: NL, EN
+Canonical: https://secure-t.sittard-geleen.nl/.well-known/security.txt
+Policy: https://www.sittard-geleen.nl/disclosure
+Hiring: https://www.sittard-geleen.nl/Bestuur/Vacatures
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRIDq0ZLiMS4h4tdEJBoGV4qih1/wUCZn0sEAAKCRBBoGV4qih1
+/9zFAP4yOjoYxbZlDCR7IVB2TY5sUp0zSf4uw8eHNY0aJ5frbwEA3g89wtsl+jDR
+yCOv9gn8G7yxAOTRE1JzPLNp8Z/3uAA=
+=tLSG
+-----END PGP SIGNATURE-----
